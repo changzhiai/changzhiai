@@ -13,8 +13,10 @@ I am currently a **Postdoctoral Researcher** at **SUNCAT**, working at the inter
 ### ⚛️ Projects & Interests
 
 - [**IANN**](https://github.com/changzhiai/IANN) — an equivariant InterAtomic Neural Network potential framework package ([Documentation](https://iann.readthedocs.io/en/latest/))
-- [**PCAT**](https://github.com/changzhiai/pcat) — a Practical Catalysis Toolkit package
 - [**PlotPackage**](https://github.com/changzhiai/PlotPackage/tree/master) — a python plot package in the field of catalysis (Deprecated)
+- [**PCAT**](https://github.com/changzhiai/pcat) — a Practical Catalysis Toolkit package
+- [**AdsNet**](https://github.com/changzhiai/AdsNet) — a message passing graph neural network for adsorption (Private)
+- [**AlphaScheme**](https://github.com/SUNCAT-Center/AlphaScheme) — a alpha model for binding energy (private)
 
 ### 🔬 Research instances
 - [High throughput screening across different elements](https://github.com/changzhiai/pcat/tree/master/instances/instance1_dft) ([Jupyter-notebook](https://github.com/changzhiai/PlotPackage/blob/master/plotpackage/myproject/version3/Paper1_more_element.ipynb))
