@@ -1,6 +1,6 @@
 # Changzhi Ai, PhD
 
-### 🎓 About Me  (Open to work)
+## 🎓 About Me  (Open to work)
 I am currently a **Postdoctoral Researcher** at **SUNCAT**, working at the intersection of **Machine Learning** and **Chemistry**, affiliated with **Stanford University** & **SLAC**, based in Menlo Park, CA, and earned my **PhD** from **Technical University of Denmark (DTU)** in 2023.
 
 - 📚 Interested in *code developing* on machine learning model for materials.
@@ -8,7 +8,7 @@ I am currently a **Postdoctoral Researcher** at **SUNCAT**, working at the inter
 - 🔬 Expertise in *ML/AI*, global optimization, heterogeneous catalysis, reaction kinetics, and data‐driven modelling.    
 
 
-### ⚛️ Projects & Interests
+## ⚛️ Projects & Interests
 
 - [**IANN**](https://github.com/changzhiai/IANN) — an equivariant InterAtomic Neural Network potential framework package ([Documentation](https://iann.readthedocs.io/en/latest/))
 - [**PlotPackage**](https://github.com/changzhiai/PlotPackage/tree/master) — a python plot package in the field of catalysis (Deprecated)
@@ -16,13 +16,13 @@ I am currently a **Postdoctoral Researcher** at **SUNCAT**, working at the inter
 - [**AdsNet**](https://github.com/changzhiai/AdsNet) — a message passing graph neural network for adsorption (Private)
 - [**AlphaScheme**](https://github.com/SUNCAT-Center/AlphaScheme) — a alpha model for binding energy (private)
 
-### 🔬 Research instances
-- [High throughput screening across different elements](https://github.com/changzhiai/pcat/tree/master/instances/instance1_dft) ([Jupyter-notebook](https://github.com/changzhiai/PlotPackage/blob/master/plotpackage/myproject/version3/Paper1_more_element.ipynb))
-- [Active learning cluster expansion and Monte Carlo simulated annealing for screening](https://github.com/changzhiai/pcat/tree/master/instances/instance2_ce_mcsa)
-- [High-throughput Compositional Screening of Alloy surfaces](https://github.com/changzhiai/pcat/tree/master/instances/instance3_ce_mcsa)
+## 🔬 Research instances
 - [Graph neural network-accelerated multitasking genetic algorithm for optimizing alloy surfaces with adsorbates](https://github.com/changzhiai/pcat/tree/master/instances/instance4_ml_ga/workflow)
+- [High-throughput Compositional Screening of Alloy surfaces](https://github.com/changzhiai/pcat/tree/master/instances/instance3_ce_mcsa)
+- [Active learning cluster expansion and Monte Carlo simulated annealing for screening](https://github.com/changzhiai/pcat/tree/master/instances/instance2_ce_mcsa)
+- [High throughput screening across different elements](https://github.com/changzhiai/pcat/tree/master/instances/instance1_dft) ([Jupyter-notebook](https://github.com/changzhiai/PlotPackage/blob/master/plotpackage/myproject/version3/Paper1_more_element.ipynb))
 
-### 🧠 Training and courses
+## 🧠 Training and courses
 - [**Machine Learning and Data Mining**](https://github.com/changzhiai/MachineLearning)([**Project1**](https://github.com/changzhiai/02450-Machine-Learning-and-Data-Mining-Algerian-Forest-Fires-part1), [**Project2**](https://github.com/changzhiai/02450-Machine-Learning-and-Data-Mining-Algerian-Forest-Fires-part2)) from DTU
 - [**Deep Learning**](https://github.com/changzhiai/DeepLearning) from DTU
 - [**Machine Learning Operations**](https://github.com/changzhiai/dtu_mlops) from DTU
@@ -37,7 +37,7 @@ I am currently a **Postdoctoral Researcher** at **SUNCAT**, working at the inter
 - [**BIKE Workshop**](https://github.com/changzhiai/BikeWorkshop) from DTU
 
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 | Domain | Tools / Libraries |
 |---|---|
