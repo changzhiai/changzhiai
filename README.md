@@ -5,20 +5,36 @@ I am currently a **Postdoctoral Researcher** at **SUNCAT**, working at the inter
 
 - 📚 Interested in *code developing* on machine learning model for materials.
 - 💡 Enjoy applying *ML/AI* techniques to scientific and engineering problems.
-- 🔬 Expertise in *ML/AI*, *heterogeneous catalysis*, *reaction kinetics*, and *data‐driven modelling*.    
+- 🔬 Expertise in *ML/AI*, global optimization, heterogeneous catalysis, reaction kinetics, and data‐driven modelling.    
 
 
 ---
 
-### 🔭 Current Projects & Interests
+### ⚛️ Projects & Interests
 
-- **IANN** - (InterAtomic Neural Network), an equivariant interatomic neural network potential framework package
-- **PCAT** — Practical Catalysis Toolkit (Python)
+- [**IANN**](https://github.com/changzhiai/IANN) — an equivariant InterAtomic Neural Network potential framework package ([Documentation](https://iann.readthedocs.io/en/latest/))
+- [**PCAT**](https://github.com/changzhiai/pcat) — a Practical Catalysis Toolkit package
+- [**PlotPackage**](https://github.com/changzhiai/PlotPackage/tree/master) — a python plot package in the field of catalysis (Deprecated)
 
-### 🧭 Training 
-- **MachineLearning / DeepLearning** repositories — educational & research code  
-- Work on linking **first principles modeling + kinetic simulations + ML surrogates**  
-- Exploring **active learning**, **surrogate models**, and **uncertainty quantification**  
+### 🔬 Research instances
+- [High throughput screening across different elements](https://github.com/changzhiai/pcat/tree/master/instances/instance1_dft) ([Jupyter-notebook](https://github.com/changzhiai/PlotPackage/blob/master/plotpackage/myproject/version3/Paper1_more_element.ipynb))
+- [Active learning cluster expansion and Monte Carlo simulated annealing for screening](https://github.com/changzhiai/pcat/tree/master/instances/instance2_ce_mcsa)
+- [High-throughput Compositional Screening of Alloy surfaces](https://github.com/changzhiai/pcat/tree/master/instances/instance3_ce_mcsa)
+- [Graph neural network-accelerated multitasking genetic algorithm for optimizing alloy surfaces with adsorbates](https://github.com/changzhiai/pcat/tree/master/instances/instance4_ml_ga/workflow)
+
+### 🧠 Training and courses
+- [**Machine Learning and Data Mining**](https://github.com/changzhiai/MachineLearning)([**Project1**](https://github.com/changzhiai/02450-Machine-Learning-and-Data-Mining-Algerian-Forest-Fires-part1), [**Project2**](https://github.com/changzhiai/02450-Machine-Learning-and-Data-Mining-Algerian-Forest-Fires-part2)) from DTU
+- [**Deep Learning**](https://github.com/changzhiai/DeepLearning) from DTU
+- [**Machine Learning Operations**](https://github.com/changzhiai/dtu_mlops) from DTU
+- [**Pytorch Deep Learning**](https://github.com/changzhiai/PytorchDeepLearning) from Deep Learning Wizard
+- [**Computational Modelling of Materials for Energy Applications**](https://github.com/changzhiai/EnergyMaterials) from DTU
+- [**Materials Design with Machine Learning and Artificial Intelligence**](https://github.com/changzhiai/MaterialsDesign) from DTU
+- [**Advanced Computational Tools**](https://github.com/changzhiai/AdvancedComputationalTools) from DTU
+- [**Concepts in Heterogeneous Catalysis**](https://github.com/changzhiai/CatalysisConcepts) ([**Project**](https://github.com/changzhiai/10339-Concepts-in-Heterogeneous-Catalysis-Final-project/blob/master/10339_Concepts_in_Heterogeneous_Catalysis_Final_project.pdf)) from DTU by Jens Nørskov and Thomas Bligaard
+- [**Computational Physics**](https://github.com/changzhiai/ComputationalPhysics300) from UNLV
+- [**Autonomous materials discovery**](https://github.com/changzhiai/Autonomous-materials-discovery) from DTU
+- [**CAMD Summer School**](https://github.com/changzhiai/CAMD2022) from DTU
+- [**BIKE Workshop**](https://github.com/changzhiai/BikeWorkshop) from DTU
 
 ---
 
@@ -28,11 +44,12 @@ I am currently a **Postdoctoral Researcher** at **SUNCAT**, working at the inter
 |---|---|
 | Programming | Python, C++, (html, css, javescript, PHP, Java) |
 | ML / Data | PyTorch, scikit-learn, numpy, pandas, MySQL |
-| Scientific / Modeling | DFT (VASP, GPAW), molecular dynamics (LAMMPS), Monte Carlo, microkinetics, Kinetic Monte Carlo |
-| Global optimization | multi-tasking genetic algorithm, simulated annealing | minima hopping |
+| Scientific / Modeling | DFT (VASP, GPAW), molecular dynamics (LAMMPS), Monte Carlo, microkinetics model, Kinetic Monte Carlo |
+| ML potential | FastPot, PaiNN, NequIP, MACE, EquiformerV2, AMP, N2P2|
+| Global optimization | Multi-tasking genetic algorithm, simulated annealing | minima hopping |
 | Useful tools | ASE (Atomic Simulation Environment), Pymatgen |
 | DevOps & Tools | Git, GitHub, Jupyter, Docker|
-| Visualization | matplotlib, seaborn, plotly |
+| Visualization | Matplotlib, seaborn, plotly |
 
 ---
 
