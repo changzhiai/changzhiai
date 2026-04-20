@@ -39,7 +39,7 @@ I am currently a **Postdoctoral Researcher** at **SUNCAT**, working at the inter
 
 ## 🛠️ Skills & Tools
 
-| Domain | Tools / Libraries |
+| Skills | Tools / Libraries |
 |---|---|
 | Programming | Python, C++, (html, css, javescript, typescript, PHP, Java) |
 | ML / Data | PyTorch, scikit-learn, numpy, pandas, MySQL |
