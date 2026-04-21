@@ -43,6 +43,7 @@ I am currently a **Postdoctoral Researcher** at **SUNCAT**, working at the inter
 |---|---|
 | Programming | Python, C++, (html, css, javescript, typescript, PHP, Java) |
 | ML / Data | PyTorch, scikit-learn, numpy, pandas, MySQL |
+| Agentic AI | RAG, LangChain, LangGraph, LLM deployment, Skills, MCP |
 | Scientific / Modeling | DFT (VASP, GPAW), molecular dynamics (LAMMPS), Monte Carlo, microkinetics model, Kinetic Monte Carlo |
 | ML potential | FastPot, PaiNN, NequIP, MACE, EquiformerV2, AMP, N2P2|
 | Global optimization | Multi-tasking genetic algorithm, simulated annealing | minima hopping |
