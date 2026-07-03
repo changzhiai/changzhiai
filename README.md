@@ -1,7 +1,7 @@
 # Changzhi Ai, PhD
 
 ## 🎓 About Me  (Open to work)
-I am currently a **Postdoctoral Researcher** at **SUNCAT**, working at the intersection of **Machine Learning** and **Chemistry**, affiliated with **Stanford University** & **SLAC**, based in Menlo Park, CA, and earned my **PhD** from **Technical University of Denmark (DTU)** in 2023.
+I am currently a **Postdoctoral Researcher**, working at the intersection of **Machine Learning** and **Chemistry**, affiliated with **Stanford University** & **SLAC**, based in Menlo Park, CA, and earned my **PhD** from **Technical University of Denmark (DTU)** in 2023.
 
 - 📚 Interested in *code developing* on machine learning model for materials.
 - 💡 Enjoy applying *ML/AI* techniques to scientific and engineering problems.
