@@ -8,13 +8,13 @@ I am currently a **Postdoctoral Researcher**, working at the intersection of **M
 - 🔬 Expertise in *ML/AI*, global optimization, heterogeneous catalysis, reaction kinetics, and data‐driven modelling.    
 
 
-## ⚛️ Projects & Interests
+## ⚛️ Developed Package for Science
 
 - [**IANN**](https://github.com/changzhiai/IANN) — an equivariant InterAtomic Neural Network potential framework package ([Documentation](https://iann.readthedocs.io/en/latest/))
+- [**AdsNet**](https://github.com/changzhiai/AdsNet) — a message passing graph neural network for adsorption (https://github.com/changzhiai/AdsNet)
 - [**PCAT**](https://github.com/changzhiai/pcat) — a Practical Catalysis Toolkit package
-- [**PlotPackage**](https://github.com/changzhiai/PlotPackage/tree/master) — a python plot package in the field of catalysis (Deprecated)
-- [**AdsNet**](https://github.com/changzhiai/AdsNet) — a message passing graph neural network for adsorption (Private)
 - [**AlphaScheme**](https://github.com/SUNCAT-Center/AlphaScheme) — a alpha model for binding energy (private)
+- [**PlotPackage**](https://github.com/changzhiai/PlotPackage/tree/master) — a python plot package in the field of catalysis (Deprecated)
 
 ## 🔬 Research instances
 - [Graph neural network-accelerated multitasking genetic algorithm for optimizing alloy surfaces with adsorbates](https://github.com/changzhiai/pcat/tree/master/instances/instance4_ml_ga/workflow)
@@ -35,6 +35,13 @@ I am currently a **Postdoctoral Researcher**, working at the intersection of **M
 - [**Autonomous materials discovery**](https://github.com/changzhiai/Autonomous-materials-discovery) from DTU
 - [**CAMD Summer School**](https://github.com/changzhiai/CAMD2022) from DTU
 - [**BIKE Workshop**](https://github.com/changzhiai/BikeWorkshop) from DTU
+
+## 📱 Developed Cross-Platform Apps (Web / iOS / Android)
+
+- [**PeriodicTable**](https://github.com/changzhiai/PeriodicTable) — an interactive periodic table application
+- [**TravelTracker**](https://github.com/changzhiai/TravelTracker) — track and visualize your travel history
+- [**MapCombiner**](https://github.com/changzhiai/MapCombiner) — combine and overlay multiple maps
+- [**MapParser**](https://github.com/changzhiai/MapParser) — parse and extract map data
 
 
 ## 🛠️ Skills & Tools
