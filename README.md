@@ -11,7 +11,7 @@ I am currently a **Postdoctoral Researcher**, working at the intersection of **M
 ## ⚛️ Developed Package for Science
 
 - [**IANN**](https://github.com/changzhiai/IANN) — an equivariant InterAtomic Neural Network potential framework package ([Documentation](https://iann.readthedocs.io/en/latest/))
-- [**AdsNet**](https://github.com/changzhiai/AdsNet) — a message passing graph neural network for adsorption (https://github.com/changzhiai/AdsNet)
+- [**AdsNet**](https://github.com/changzhiai/AdsNet) — a message passing graph neural network for adsorption (Public soon)
 - [**PCAT**](https://github.com/changzhiai/pcat) — a Practical Catalysis Toolkit package
 - [**AlphaScheme**](https://github.com/SUNCAT-Center/AlphaScheme) — a alpha model for binding energy (private)
 - [**PlotPackage**](https://github.com/changzhiai/PlotPackage/tree/master) — a python plot package in the field of catalysis (Deprecated)
