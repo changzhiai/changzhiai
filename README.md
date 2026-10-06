@@ -3,12 +3,13 @@
 ## 🎓 About Me (Open to work)
 I am a **Postdoctoral Researcher** at **Stanford University** & **SLAC** (Menlo Park, CA), working at the intersection of **Machine Learning** and **Chemistry**. I earned my **PhD** from the **Technical University of Denmark (DTU)** in 2023.
 
+- 🤖 Building *Agentic AI for Science* — LLM agents that automate scientific workflows.
 - 📚 Interested in *developing* machine learning models for materials.
 - 💡 Enjoy applying *ML/AI* techniques to scientific and engineering problems.
 - 🔬 Expertise in *ML/AI*, global optimization, heterogeneous catalysis, reaction kinetics, and data-driven modelling.
 
 
-## ⚛️ Scientific Software Packages
+## ⚛️ Developed Scientific Software
 
 - [**IANN**](https://github.com/changzhiai/IANN) — an equivariant InterAtomic Neural Network potential framework ([Documentation](https://iann.readthedocs.io/en/latest/))
 - [**AdsNet**](https://github.com/changzhiai/AdsNet) — a message-passing graph neural network for adsorption
