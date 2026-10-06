@@ -35,12 +35,17 @@ I am a **Postdoctoral Researcher** at **Stanford University** & **SLAC** (Menlo 
 - [**CAMD Summer School**](https://github.com/changzhiai/CAMD2022) from DTU
 - [**BIKE Workshop**](https://github.com/changzhiai/BikeWorkshop) from DTU
 
-## 📱 Developed Cross-Platform Apps (Web / iOS / Android)
+## 📱 Developed Cross-Platform Apps (Web / iOS / Android / Chrome)
 
-- [**PeriodicTable**](https://github.com/changzhiai/PeriodicTable) — an interactive periodic table application
-- [**TravelTracker**](https://github.com/changzhiai/TravelTracker) — track and visualize your travel history
-- [**MapCombiner**](https://github.com/changzhiai/MapCombiner) — combine and overlay multiple maps
-- [**MapParser**](https://github.com/changzhiai/MapParser) — parse and extract map data
+- [**PeriodicTable**](https://github.com/changzhiai/PeriodicTable) — an interactive periodic table application · [Web](https://theperiodictable.org/) · [iOS](https://apps.apple.com/us/app/periodic-table-2026/id6758905875) · [Android](https://play.google.com/store/apps/details?id=com.changzhiai.periodictable) · [Chrome](https://chromewebstore.google.com/detail/periodic-table/pippkiankmaegpfepaljgdpcanflfkjp)
+- [**TravelTracker**](https://github.com/changzhiai/TravelTracker) — track and visualize your travel history · [Web](https://travel-tracker.org/) · [iOS](https://apps.apple.com/us/app/travel-tracker-visited-maps/id6758506116) · [Android](https://play.google.com/store/apps/details?id=com.traveltracker.app) · [Chrome](https://chromewebstore.google.com/detail/travel-tracker/madmikgcjpnjbikfpcfljbcaoceljgjb)
+- [**MapCombiner**](https://github.com/changzhiai/MapCombiner) — combine and overlay multiple maps · [Web](https://mapcombiner.travel-tracker.org/) · [iOS](https://apps.apple.com/us/app/map-combiner/id6759537456) · [Android](https://play.google.com/store/apps/details?id=org.traveltracker.mapcombiner) · [Chrome](https://chromewebstore.google.com/detail/mapcombiner/iplkbgolackgbpmkmolbaahchhobbcma)
+- [**MapParser**](https://github.com/changzhiai/MapParser) — parse and extract map data · [Web](https://mapparser.travel-tracker.org/) · [iOS](https://apps.apple.com/us/app/map-parser-route-export/id6759354228) · [Android](https://play.google.com/store/apps/details?id=org.traveltracker.mapparser) · [Chrome](https://chromewebstore.google.com/detail/mapparser/flhhmakjnaiofhgjjdjbkkhcpilompad)
+
+## 🧩 Developed Chrome Extensions
+
+- [**Authenticator — All in One**](https://chromewebstore.google.com/detail/authenticator-%E2%80%94-all-in-on/eigknapflkiecdbeimdnojlibfjmbgbg) — generate two-factor authentication (TOTP) codes in your browser, fully offline
+- [**DOI to BibTeX**](https://chromewebstore.google.com/detail/doi-to-bibtex/apgphhdgkkafcdnonlfpncfjjjadebkb) — turn a DOI into a clean, ready-to-copy BibTeX citation
 
 
 ## 🛠️ Skills & Tools
